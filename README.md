@@ -1,6 +1,6 @@
 # Computer-Vision-Julia-exercise-
 
-This Exercise contains several typic topic of Computer Vision given by Julia, which is:
+This Exercise contains several typic topics of Computer Vision given by Julia, which is:
 
 Exercise0: Image Loading;
 
