@@ -12,4 +12,4 @@ Exercise3: Harris Detector, Image Sitching, Fundamantal Matrix;
 
 Exercise4: Bag of Worlds, Multilayer Perceptron(MLP) based on backpropagation algorithm. 
 
-Copyright of TU Darmstadt Rong Zhi
+@copyright TU Darmstadt Rong Zhi
